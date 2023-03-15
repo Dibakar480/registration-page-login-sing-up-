@@ -24,7 +24,7 @@ This Project is **[Live](https://reg-login-using-nodejs-mongodb.herokuapp.com/)*
 ### •Registration Form:
 Allows the user to register their account by filling their Email, Username, Password.
 
-<img src="./docs/registration.PNG" height="250" width="390" style="border: 1px solid black;">
+![registration](https://user-images.githubusercontent.com/127974192/225374020-1763b345-6c1a-49a4-9415-c258c11617b6.PNG)
 
 ### •Login Form:
 If the user has been registered on the app, can login by passing the credentials.
@@ -34,12 +34,12 @@ If the user has been registered on the app, can login by passing the credentials
 ### •User's Profile:
 After the user logged in, a simple profile with the user's username and password <br>displayed with a session Logout button.
 
-<img src="./docs/data.PNG" height="160" width="380" style="border: 1px solid black;">
+![userdb](https://user-images.githubusercontent.com/127974192/225374185-0d09b94f-25bf-4d56-872e-9b57aab485b8.PNG)
 
 ### •Password Reset:
 If the user forget his/her password, can reset by entering the registered Email id <br>and reset the password.
 
-<img src="./docs/forgetpass.PNG" height="200" width="400" style="border: 1px solid black;">
+![forgetpass](https://user-images.githubusercontent.com/127974192/225373648-10b2b775-fc08-4dc8-a7b1-2f5000988fb5.PNG)
 
 ### DataBase:
 Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as the database. Here we have two collection created, named as:
@@ -48,11 +48,11 @@ Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as t
 
 A Collection(**Users**) is populated with the user's credentials.
 
-<img src="./docs/userdb.PNG" height="300" width="720" style="border: 1px solid black;"><br><br>
+![sessiondb](https://user-images.githubusercontent.com/127974192/225374366-c6cb72ce-f645-4e85-ae1e-54e52500c510.PNG)
 
 A Collection(**session**) is created which stores the users Logged session.
 
-<img src="./docs/sessiondb.PNG" height="300" width="720" style="border: 1px solid black;">
+![userdb](https://user-images.githubusercontent.com/127974192/225374473-632d1ff8-83c5-4e38-8e17-117d9cebfed3.PNG)
 <br>
 <br>
 <br>
