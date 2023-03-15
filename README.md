@@ -29,7 +29,7 @@ Allows the user to register their account by filling their Email, Username, Pass
 ### •Login Form:
 If the user has been registered on the app, can login by passing the credentials.
 
-<img src="./docs/login.PNG" height="220" width="390" style="border: 1px solid black;">
+![data](https://user-images.githubusercontent.com/127974192/225373113-4c687c64-43c1-4c1b-9880-9e541c625ad2.PNG)
 
 ### •User's Profile:
 After the user logged in, a simple profile with the user's username and password <br>displayed with a session Logout button.
@@ -97,3 +97,4 @@ I would like to express myself and efforts .  I am eternally grateful to you.
 <p align="center">
   Made with ❤️ by Dibakar Ghosh <br>
 </p>
+
